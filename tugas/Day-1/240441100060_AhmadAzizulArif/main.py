@@ -1,7 +1,6 @@
 # referensi https://revou.co/panduan-teknis
 
 welcome = "SELAMAT DATANG"
-aritmatika = "penjumlahan, pengurangan, perkalian, pembagian"
 
 # Selamat datang
 print("************************************")
@@ -39,4 +38,4 @@ elif operator == "pembagian":
     total = angka1 / angka2
     
 # Hasil
-print(f"{aritmatika} dari {angka1} dan {angka2} adalah {total}")
+print(f"Hasil {operator} dari {angka1} dan {angka2} adalah {total}")
