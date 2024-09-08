@@ -1,5 +1,3 @@
-# referensi https://revou.co/panduan-teknis
-
 welcome = "SELAMAT DATANG"
 
 # Selamat datang
